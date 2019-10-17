@@ -17,7 +17,7 @@ setup(
     # Sources
     packages = find_packages(),
     package_data = {
-        'flatlib': [
+        'flatlib_fr': [
             'resources/README.md',
             'resources/swefiles/*'
         ],
