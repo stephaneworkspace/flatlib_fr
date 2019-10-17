@@ -33,8 +33,8 @@ setup(
     license = 'MIT',
     
     # Authoring
-    author = 'João Ventura',
-    author_email = 'flatangleweb@gmail.com',
+    author = 'João Ventura and Stéphane Bressani',
+    author_email = 'flatangleweb@gmail.com or s.bressani@bluewin.ch',
     
     # Classifiers
     classifiers = [
