@@ -1,8 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-
-    Modified by: Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
     
 
     This module implements a class to represent an 

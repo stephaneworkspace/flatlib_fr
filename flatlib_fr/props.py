@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    
+    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
 
     This module defines some properties of Traditional Astrology core
     elements.

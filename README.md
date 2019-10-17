@@ -2,6 +2,8 @@
 
 Flatlib is a python library for Traditional Astrology.
 
+This version of flatlib -> flatlib_fr, is just a translate of french for const
+
 ```python
 
 >>> date = Datetime('2015/03/13', '17:00', '+00:00')

@@ -3,6 +3,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
+    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
 """
 
 from setuptools import setup
@@ -12,7 +13,7 @@ from setuptools import find_packages
 setup(
     # Project
     name = 'flatlib_fr',
-    version = '0.0.1.dev1',
+    version = '0.0.1.dev2',
     
     # Sources
     packages = find_packages(),
@@ -33,8 +34,8 @@ setup(
     license = 'MIT',
     
     # Authoring
-    author = 'João Ventura and Stéphane Bressani',
-    author_email = 'flatangleweb@gmail.com or s.bressani@bluewin.ch',
+    author = 'João Ventura (flatangleweb@gmail.com) and Stéphane Bressani for fr translate (s.bressani@bluewin.ch)',
+    author_email = 's.bressani@bluewin.ch',
     
     # Classifiers
     classifiers = [
