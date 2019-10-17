@@ -7,13 +7,13 @@
 
 """
 
-from flatlib_fr import const
-from flatlib_fr.chart import Chart
-from flatlib_fr.datetime import Datetime
-from flatlib_fr.geopos import GeoPos
+from flatlibfr import const
+from flatlibfr.chart import Chart
+from flatlibfr.datetime import Datetime
+from flatlibfr.geopos import GeoPos
 
-from flatlib_fr.dignities import accidental
-from flatlib_fr.dignities.accidental import AccidentalDignity
+from flatlibfr.dignities import accidental
+from flatlibfr.dignities.accidental import AccidentalDignity
 
 
 # Build a chart for a date and location

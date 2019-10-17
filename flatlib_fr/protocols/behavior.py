@@ -1,16 +1,16 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
 
     This module implements the Behavior Traditional 
     Protocol.
     
 """
 
-from flatlib_fr import const
-from flatlib_fr import aspects
-from flatlib_fr.dignities import essential
+from flatlibfr import const
+from flatlibfr import aspects
+from flatlibfr.dignities import essential
 
 
 def _merge(listA, listB):

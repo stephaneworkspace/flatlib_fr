@@ -18,10 +18,10 @@
 
 """
 
-from flatlib_fr import const
-from flatlib_fr.datetime import Datetime
-from flatlib_fr.geopos import GeoPos
-from flatlib_fr.ephem import ephem
+from flatlibfr import const
+from flatlibfr.datetime import Datetime
+from flatlibfr.geopos import GeoPos
+from flatlibfr.ephem import ephem
 
 
 def plot(hdiff, title):

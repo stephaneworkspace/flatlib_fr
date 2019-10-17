@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
     
     This module defines relevant tables, such as
     the Essential Dignities.

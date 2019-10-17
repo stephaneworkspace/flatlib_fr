@@ -2,7 +2,7 @@
 
 Flatlib is a python library for Traditional Astrology.
 
-This version of flatlib -> flatlib_fr, is just a translate of french for const
+This version of flatlib -> flatlibfr, is just a translate of french for const
 
 ```python
 

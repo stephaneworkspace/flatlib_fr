@@ -11,9 +11,9 @@ Specifically, you will learn how to access:
 
 Let's start by creating a new chart::
 
-   >>> from flatlib_fr.datetime import Datetime
-   >>> from flatlib_fr.geopos import GeoPos
-   >>> from flatlib_fr.chart import Chart
+   >>> from flatlibfr.datetime import Datetime
+   >>> from flatlibfr.geopos import GeoPos
+   >>> from flatlibfr.chart import Chart
    
    >>> date = Datetime('2015/03/13', '17:00', '+00:00')
    >>> pos = GeoPos('38n32', '8w54')

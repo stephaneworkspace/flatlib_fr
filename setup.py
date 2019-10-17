@@ -3,7 +3,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
 """
 
 from setuptools import setup
@@ -12,13 +12,13 @@ from setuptools import find_packages
 
 setup(
     # Project
-    name = 'flatlib_fr',
+    name = 'flatlibfr',
     version = '0.0.1.dev2',
     
     # Sources
     packages = find_packages(),
     package_data = {
-        'flatlib_fr': [
+        'flatlibfr': [
             'resources/README.md',
             'resources/swefiles/*'
         ],

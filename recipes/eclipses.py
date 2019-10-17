@@ -7,8 +7,8 @@
 
 """
 
-from flatlib_fr.datetime import Datetime
-from flatlib_fr.ephem import ephem
+from flatlibfr.datetime import Datetime
+from flatlibfr.ephem import ephem
 
 
 # Build a Datetime object

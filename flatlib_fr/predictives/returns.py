@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
 
     This module provides useful functions for 
     handling solar and lunar returns.
@@ -9,9 +9,9 @@
     
 """
 
-from flatlib_fr import const
-from flatlib_fr.ephem import ephem
-from flatlib_fr.chart import Chart
+from flatlibfr import const
+from flatlibfr.ephem import ephem
+from flatlibfr.chart import Chart
 
 
 

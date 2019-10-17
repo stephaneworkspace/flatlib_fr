@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
     
     This module implements functions specifically 
     for the ephem subpackage.
@@ -9,9 +9,9 @@
 """
 
 from . import swe
-from flatlib_fr import angle
-from flatlib_fr import const
-from flatlib_fr import utils
+from flatlibfr import angle
+from flatlibfr import const
+from flatlibfr import utils
 
 
 # One arc-second error for iterative algorithms

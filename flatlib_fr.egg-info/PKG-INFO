@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: flatlib-fr
+Version: 0.0.1.dev2
+Summary: Python library for Traditional Astrology
+Home-page: https://github.com/flatangle/flatlib
+Author: João Ventura (flatangleweb@gmail.com) and Stéphane Bressani for fr translate (s.bressani@bluewin.ch)
+Author-email: s.bressani@bluewin.ch
+License: MIT
+Description: UNKNOWN
+Keywords: Astrology,Traditional Astrology
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

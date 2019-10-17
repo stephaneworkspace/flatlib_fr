@@ -224,7 +224,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'flatlib_fr.tex', 'flatlib Documentation',
+  (master_doc, 'flatlibfr.tex', 'flatlib Documentation',
    'João Ventura', 'manual'),
 ]
 

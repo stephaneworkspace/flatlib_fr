@@ -1,5 +1,5 @@
 """
- Builds a compiled distribution of flatlib_fr.
+ Builds a compiled distribution of flatlibfr.
 
 """
 
@@ -42,7 +42,7 @@ shutil.move(RES_SRC_DIR, RES_DST_DIR)
 # Create zip file
 import flatlib
 
-VERSION = flatlib_fr.__version__
+VERSION = flatlibfr.__version__
 zipname = '%s-%s' % (PKG_NAME, VERSION)
 shutil.make_archive(os.path.join(BUILD_DIR, zipname), 'zip',
                     root_dir=BUILD_DIR, base_dir=PKG_NAME)

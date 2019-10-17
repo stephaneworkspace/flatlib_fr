@@ -7,9 +7,9 @@
 
 """
 
-from flatlib_fr.datetime import Datetime
-from flatlib_fr.geopos import GeoPos
-from flatlib_fr.tools import planetarytime
+from flatlibfr.datetime import Datetime
+from flatlibfr.geopos import GeoPos
+from flatlibfr.tools import planetarytime
 
 
 # Build a date and location

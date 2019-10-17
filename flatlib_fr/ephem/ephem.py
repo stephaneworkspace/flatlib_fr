@@ -1,12 +1,12 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
     
     This module implements functions which are useful
     for flatlib. Basically, it converts internal objects 
-    and lists from the ephemeris to flatlib_fr.objects and 
-    flatlib_fr.lists.
+    and lists from the ephemeris to flatlibfr.objects and 
+    flatlibfr.lists.
     
     Flatlib users will want to use this module for 
     accessing the ephemeris.
@@ -16,10 +16,10 @@
 from . import eph
 from . import swe
 
-from flatlib_fr.datetime import Datetime
-from flatlib_fr.object import (GenericObject, Object, 
+from flatlibfr.datetime import Datetime
+from flatlibfr.object import (GenericObject, Object, 
                             House, FixedStar)
-from flatlib_fr.lists import (GenericList, ObjectList, 
+from flatlibfr.lists import (GenericList, ObjectList, 
                            HouseList, FixedStarList)
 
 

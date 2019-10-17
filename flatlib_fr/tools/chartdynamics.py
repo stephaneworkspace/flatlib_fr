@@ -8,9 +8,9 @@
   
 """
 
-from flatlib_fr import const
-from flatlib_fr import aspects
-from flatlib_fr.dignities import essential
+from flatlibfr import const
+from flatlibfr import aspects
+from flatlibfr.dignities import essential
 
 
 

@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
 
     This module implements the Primary Directions
     method.
@@ -14,10 +14,10 @@
     
 """
 
-from flatlib_fr import angle
-from flatlib_fr import utils
-from flatlib_fr import const
-from flatlib_fr.dignities import tables
+from flatlibfr import angle
+from flatlibfr import utils
+from flatlibfr import const
+from flatlibfr.dignities import tables
 
 
 # === Base functions === #

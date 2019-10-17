@@ -11,12 +11,12 @@
   
 """
 
-import flatlib_fr
+import flatlibfr
 from . import swe
 
 
 # Set default swefile path
-swe.setPath(flatlib_fr.PATH_RES + 'swefiles')
+swe.setPath(flatlibfr.PATH_RES + 'swefiles')
 
 # Configure swefile path
 def setPath(path):

@@ -8,9 +8,9 @@
   
 """
 
-from flatlib_fr import const
-from flatlib_fr.object import GenericObject
-from flatlib_fr.dignities import essential
+from flatlibfr import const
+from flatlibfr.object import GenericObject
+from flatlibfr.dignities import essential
 
 
 # Define arabic parts

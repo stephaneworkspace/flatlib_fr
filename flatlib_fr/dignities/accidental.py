@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
     
     This module implements some utility functions for
     handling the accidental dignities of an Astrology
@@ -11,12 +11,12 @@
 
 from copy import copy
 
-from flatlib_fr import angle, dignities
-from flatlib_fr import const
-from flatlib_fr import props
-from flatlib_fr import aspects
-from flatlib_fr.dignities import essential
-from flatlib_fr.tools.chartdynamics import ChartDynamics
+from flatlibfr import angle, dignities
+from flatlibfr import const
+from flatlibfr import props
+from flatlibfr import aspects
+from flatlibfr.dignities import essential
+from flatlibfr.tools.chartdynamics import ChartDynamics
 
 
 # Relations with Sun

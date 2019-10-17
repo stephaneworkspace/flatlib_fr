@@ -1,7 +1,7 @@
 """
     This file is part of flatlib - (C) FlatAngle
     Author: João Ventura (flatangleweb@gmail.com)
-    flatlib_fr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
+    flatlibfr translation of const by Stéphane Bressani (s.bressani@bluewin.ch)
     
     This module implements functions for retrieving 
     astronomical and astrological data from an ephemeris.
@@ -14,8 +14,8 @@
 
 from . import swe
 from . import tools
-from flatlib_fr import angle
-from flatlib_fr import const
+from flatlibfr import angle
+from flatlibfr import const
 
 
 # === Objects === #
